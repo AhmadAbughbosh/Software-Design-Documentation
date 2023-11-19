@@ -3,9 +3,9 @@ _A car, or an automobile, is a motor vehicle with wheels. Most definitions of ca
 
 ## test2
 
-**College football refers to gridiron football played by teams of student athletes. It was through college football play that American football rules first gained popularity in the United States.
+*College football refers to gridiron football played by teams of student athletes. It was through college football play that American football rules first gained popularity in the United States.*
 
-Unlike most other sports in North America, no official minor league farm organizations exist in American or Canadian football. Therefore, college football is generally considered to be the second tier of American and Canadian football; one step ahead of high school competition, and one step below professional competition (the NFL). In some areas of the US, especially the South and the Midwest, college football is more popular than professional football,[2] and for much of the 20th-century college football was seen as more prestigious.**
+*Unlike most other sports in North America, no official minor league farm organizations exist in American or Canadian football. Therefore, college football is generally considered to be the second tier of American and Canadian football; one step ahead of high school competition, and one step below professional competition (the NFL). In some areas of the US, especially the South and the Midwest, college football is more popular than professional football,[2] and for much of the 20th-century college football was seen as more prestigious.*
 
 
 **bold text**
@@ -24,5 +24,7 @@ _italic Text_
 [MY Cars -absolute Link-](https://hips.hearstapps.com/hmg-prod/images/pcna22-0942-fine-1661449198.jpg?crop=0.644xw:0.483xh;0.123xw,0.298xh&resize=1200:*)
 
 ![My Secound Car -Direct Link-](ahmad.jpg)
+
+`public char "DD2" {Get, set}`
 
 
