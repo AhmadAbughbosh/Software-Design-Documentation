@@ -25,6 +25,15 @@ _italic Text_
 
 ![My Secound Car -Direct Link-](ahmad.jpg)
 
+[to use the markdown you can use this](https://stackedit.io/app#)
+
 `public char "DD2" {Get, set}`
+
+to read user input in java, use `Scanner s = new Scanner():`
+the full source code could be  
+
+    Scanner s = new Scanner(System.in):
+    int number = s readInt():
+
 
 
